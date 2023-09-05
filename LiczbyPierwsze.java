@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+// Klasa liczb pierwszych
 public class LiczbyPierwsze {
 
     // Deklaracja listy liczb pierwszych
